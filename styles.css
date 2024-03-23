@@ -1,0 +1,17 @@
+
+        .normal{
+            font-style: normal;
+        }
+
+        .italic{
+            font-style: italic;
+        }
+
+        .oblique {
+            font-style: oblique;
+        }
+
+body{
+    text-align: center;
+    background-color: aqua;
+}
